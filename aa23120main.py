@@ -6,4 +6,5 @@ a = 13
 b = 5
 print(plus(a,b))
 print(mult(a,b))
+print(multx(a,b,2))
 print(plusx(a,b,2))
